@@ -9,7 +9,7 @@
 </p>
 </br>
 
-## <span style="text-decoration: none;">🙂‍ About Me:</span>
+## <style>{ border-bottom: 0; }🙂‍ About Me:</style>
 
   - 🚀 Experienced in full-stack development for **android** and **website**<br>
   - 🤖 Experienced in **robotics**, **IoT**, and **machine learning**<br>
