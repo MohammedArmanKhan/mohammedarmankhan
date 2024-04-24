@@ -9,12 +9,12 @@
 </p>
 </br>
 
-<h2 style="text-decoration: none;"> 🙂‍ About Me:</h2><br>
+<h2 style="text-decoration: none;"> 🙂‍ About Me:</h2>
 
-  - 🚀 Experienced in full-stack development for **android** and **website**<br>
-  - 🤖 Experienced in **robotics**, **IoT**, and **machine learning**<br>
-  - 🎨 Skilled in **3D modeling** and **design**<br>
-  - 💻 **Linux** enthusiast and **networking** hobbyist<br>
+  - 🚀 Experienced in full-stack development for **android** and **website**
+  - 🤖 Experienced in **robotics**, **IoT**, and **machine learning**
+  - 🎨 Skilled in **3D modeling** and **design**
+  - 💻 **Linux** enthusiast and **networking** hobbyist
 
 ---
 
