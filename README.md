@@ -12,8 +12,8 @@
 ## 🙂‍ About Me:
 
   - 🚀 Experienced in full-stack development for **android** and **website**<br>
-  - 🤖 Experienced in robotics, IoT, and **machine learning**<br>
-  - 🎨 Skilled in **3D modeling** and design<br>
+  - 🤖 Experienced in **robotics**, **IoT**, and **machine learning**<br>
+  - 🎨 Skilled in **3D modeling** and **design**<br>
   - 💻 **Linux** enthusiast and **networking** hobbyist<br>
 
 ---
