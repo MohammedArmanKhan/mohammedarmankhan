@@ -1,7 +1,7 @@
 
 # <p align="center">️ **Hi there, I'm Mohammed Arman Khan 👋** </p>
 <p align="center">️<small>I'm a tech enthusiast with a passion for programming, robotics, and exploring the latest in technology.</small></p>
-
+<br/>
 
 </p>
 <p align="right">
