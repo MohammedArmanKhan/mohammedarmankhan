@@ -11,9 +11,9 @@
 </p>
 
 <p align="right">
-  ## &nbsp; &nbsp;<img src="https://giphy.com/embed/26SdS6M9jzxdqq72JU](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW16dDE0a2Y3Ymh5Zjk3M2V3b21nMDQyb3o0NjI2MDQ2cWJmOHg0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26SdS6M9jzxdqq72JU/giphy.gif" width="30">
+  <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW16dDE0a2Y3Ymh5Zjk3M2V3b21nMDQyb3o0NjI2MDQ2cWJmOHg0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26SdS6M9jzxdqq72JU/giphy-downsized.gif">
 </p>
-
+</br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" width="45%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" width="45%">
