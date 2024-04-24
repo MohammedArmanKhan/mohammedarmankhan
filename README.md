@@ -2,17 +2,16 @@
 # <p align="center">️ **Hi there, I'm Mohammed Arman Khan 👋** </p>
 <p align="center">️<small>I'm a tech enthusiast with a passion for programming, robotics, and exploring the latest in technology.</small></p>
 
-<p align="center">
-  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/285/bust-in-silhouette_1f464.png" width="30" height="30" alt="About Me Icon"> <b>About Me</b><br>
+<p align="left">
+  👤 <b>About Me</b><br>
   - 🚀 Experienced in full-stack development for android and website<br>
   - 🤖 Experienced in robotics, IoT, and machine learning<br>
   - 🎨 Skilled in 3D modeling and design<br>
   - 💻 Linux enthusiast and networking hobbyist<br>
 </p>
 
-<p align="center">
-  <img src="https://giphy.com/embed/26SdS6M9jzxdqq72JU" width="200" height="150" alt="Tech Enthusiast GIF"><br>
-  <small><a href="https://giphy.com/gifs/animation-loop-life-26SdS6M9jzxdqq72JU">via GIPHY</a></small>
+<p align="right">
+  ## &nbsp; &nbsp;<img src="[https://giphy.com/embed/26SdS6M9jzxdqq72JU](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW16dDE0a2Y3Ymh5Zjk3M2V3b21nMDQyb3o0NjI2MDQ2cWJmOHg0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26SdS6M9jzxdqq72JU/giphy.gif)" width="200" height="150"
 </p>
 
 <p align="center">
@@ -29,7 +28,7 @@
 - 🔍 Passionate about problem-solving and innovation
 
 ## Connect with Me
-- [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30" height="30" alt="LinkedIn Icon">](YourLinkedInProfileURL)
+- [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30" height="30" alt="LinkedIn Icon">](https://www.linkedin.com/in/mohammedarmankhan/)
 <!---
 - [Twitter](YourTwitterProfileURL)
 - [Personal Website](YourWebsiteURL)
