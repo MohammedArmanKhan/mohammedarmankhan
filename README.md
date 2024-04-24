@@ -8,7 +8,7 @@
 </p>
 </br>
 
-##🙂‍ About Me
+## 🙂‍ About Me:
 
   - 🚀 Experienced in full-stack development for **android** and **website**<br>
   - 🤖 Experienced in robotics, IoT, and **machine learning**<br>
@@ -17,7 +17,7 @@
 
 ---
 
-## 📈 **Github Stats:**
+## 📈 Github Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" width="45%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" width="45%">
