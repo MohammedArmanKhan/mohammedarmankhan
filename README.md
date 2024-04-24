@@ -9,7 +9,7 @@
 </p>
 </br>
 
-<h2 style="text-decoration: none;">## 🙂‍ About Me:</h2>
+<h2 style="text-decoration: none;"> 🙂‍ About Me:</h2>
 
   - 🚀 Experienced in full-stack development for **android** and **website**<br>
   - 🤖 Experienced in **robotics**, **IoT**, and **machine learning**<br>
