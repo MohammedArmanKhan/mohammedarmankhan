@@ -11,7 +11,7 @@
 <!---<p align="left">
   ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW9yOW8ybnd0Z2NzM3psbTE2N3g1YWE5YzF2N2E1M2Z5b2trbHpxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JvL38EKwPGH3JwQbfQ/giphy.gif" width="30"> **About Me**
 --->
-## &nbsp; &nbsp;<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnM4dXU4NDBybGZ0emcybTIycGN3ZmEwZmUzbXk3d2c1aGJkMnZxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VOPK1BqsMEJRS/giphy.gif" width="30"> **About Me**
+## &nbsp; &nbsp;<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWExNncydXFrNjB1YnRuZnNvMDB4MXE3YWR4MThhMXBnbjBueWpsOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oZuUgLU22UDUgb5QtQ/giphy.gif" width="30"> **About Me**
 
   - 🚀 Experienced in full-stack development for **android** and **website**<br>
   - 🤖 Experienced in robotics, IoT, and **machine learning**<br>
