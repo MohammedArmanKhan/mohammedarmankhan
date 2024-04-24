@@ -9,13 +9,15 @@
 </br>
 
 <p align="left">
-  ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTJzcjZnMHA3ejk0ejVna3dtb2dnNnh5MHR1MzNndXpucTE1azE1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKV4mQPPd2HzFCg/giphy.gif" width="30"> <b>About Me</b><br>
+  ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW9yOW8ybnd0Z2NzM3psbTE2N3g1YWE5YzF2N2E1M2Z5b2trbHpxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JvL38EKwPGH3JwQbfQ/giphy.gif" width="30"> **About Me**
+
   - 🚀 Experienced in full-stack development for **android** and **website**<br>
   - 🤖 Experienced in robotics, IoT, and **machine learning**<br>
   - 🎨 Skilled in **3D modeling** and design<br>
   - 💻 **Linux** enthusiast and **networking** hobbyist<br>
 
 ---
+
 ## 📈 **Github Stats:**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" width="45%">
