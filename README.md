@@ -9,7 +9,7 @@
 </br>
 
 <p align="left">
-  ##👤 <b>About Me</b><br>
+  ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTJzcjZnMHA3ejk0ejVna3dtb2dnNnh5MHR1MzNndXpucTE1azE1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKV4mQPPd2HzFCg/giphy.gif" width="30"> <b>About Me</b><br>
   - 🚀 Experienced in full-stack development for **android** and **website**<br>
   - 🤖 Experienced in robotics, IoT, and **machine learning**<br>
   - 🎨 Skilled in **3D modeling** and design<br>
