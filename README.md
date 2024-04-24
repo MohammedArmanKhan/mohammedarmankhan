@@ -8,8 +8,7 @@
 </p>
 </br>
 
-<p align="left">
-  ## &nbsp; &nbsp;🙂‍ **About Me**</p>
+##🙂‍ About Me
 
   - 🚀 Experienced in full-stack development for **android** and **website**<br>
   - 🤖 Experienced in robotics, IoT, and **machine learning**<br>
