@@ -2,6 +2,7 @@
 # <p align="center">️ **Hi there, I'm Mohammed Arman Khan 👋** </p>
 <p align="center">️<small>I'm a tech enthusiast with a passion for programming, robotics, and exploring the latest in technology.</small></p>
 
+
 </p>
 <p align="right">
   <img align="right" alt="life" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW16dDE0a2Y3Ymh5Zjk3M2V3b21nMDQyb3o0NjI2MDQ2cWJmOHg0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26SdS6M9jzxdqq72JU/giphy-downsized.gif">
