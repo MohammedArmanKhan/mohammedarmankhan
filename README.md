@@ -8,15 +8,8 @@
   <img align="right" alt="life" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW16dDE0a2Y3Ymh5Zjk3M2V3b21nMDQyb3o0NjI2MDQ2cWJmOHg0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26SdS6M9jzxdqq72JU/giphy-downsized.gif">
 </p>
 </br>
-final Markwon markwon = Markwon.builder(context)
-        .usePlugin(new AbstractMarkwonPlugin() {
-            @Override
-            public void configureTheme(@NonNull MarkwonTheme.Builder builder) {
-                builder.headingBreakHeight(0);
-            }
-        })
-        .build();
-## <style>{ border-bottom: 0; }🙂‍ About Me:</style>
+
+<h2 style="text-decoration: none;">## 🙂‍ About Me:</h2>
 
   - 🚀 Experienced in full-stack development for **android** and **website**<br>
   - 🤖 Experienced in **robotics**, **IoT**, and **machine learning**<br>
