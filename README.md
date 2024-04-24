@@ -19,12 +19,14 @@
 ---
 
 ## 📈 Github Stats:
-<a href="https://github.com/rafathossain">
-<img width="440" align="center" src="https://github-readme-stats.vercel.app/api?username=rafathossain&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
+<p align="center">
+<a href="https://github.com/mohammedarmankhan">
+<img width="440" align="center" src="https://github-readme-stats.vercel.app/api?username=mohammedarmankhan&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
 </a>
-<a href="https://github.com/rafathossain/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rafathossain&layout=compact&theme=blue-green" />
+<a href="https://github.com/mohammedarmankhan/github-readme-stats">
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mohammedarmankhan&layout=compact&theme=blue-green" />
 </a>
+</p>
 
 </br>
 <!---
