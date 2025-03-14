@@ -49,6 +49,8 @@
  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+ ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+ ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ## Extras
 - 📚 Constantly learning and exploring new technologies
